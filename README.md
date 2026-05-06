@@ -7,6 +7,7 @@
 | Skill | 描述 | 触发词 |
 |-------|------|--------|
 | `analyze-skill` | 从飞书表格生成 AI 模型评测标准化报告 | `/analyze` |
+| `pm-skill` | 产品经理双视角分析（Senior PM 执行视角 + PM Leader 宏观视角） | `/pm` |
 
 ## 使用方法
 
