@@ -1,6 +1,6 @@
 # OpenClaw Skills
 
-个人 OpenClaw Skill 集合，用于扩展 AI 助手的能力。
+面向个人agent的Skills集合，用于扩展 AI 助手的能力。
 
 ## Skills 列表
 
